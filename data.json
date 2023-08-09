@@ -1,0 +1,74 @@
+{
+    "eventos": [
+      {
+        "nombre": "evento 1",
+        "descripcion": {
+          "id": "1",
+          "artista": "elvis presley",
+          "genero": "rock",
+          "id_ubicacion": "10",
+          "hora_inicio": "9:00",
+          "hora_fin": "12:00",
+          "descripcion": "el rey del rock hace un evento",
+          "coordenadas": "(-41.146852248654646, -71.31452375396368)",
+          "direccion": "Bariloche, Rio Negro"
+  
+  
+  
+        }
+      },{
+        "nombre": "evento 2",
+        "descripcion": {
+          "id": "2",
+          "artista": "michael jackson",
+          "genero": "pop",
+          "id_ubicacion": "20",
+          "hora_inicio": "15:00",
+          "hora_fin": "17:00",
+          "descripcion": "el rey del pop hace un evento en la calle norte",
+          "coordenadas": "(-37.37297813953693, -64.60378400418699)",
+          "direccion": "General Acha, La Pampa"
+        }
+      },{
+        "nombre": "evento 3",
+        "descripcion": {
+          "id": "3",
+          "artista": "szimia bajour",
+          "genero": "musica clasica",
+          "id_ubicacion": "30",
+          "hora_inicio": "10:00",
+          "hora_fin": "14:00",
+          "descripcion": "el violinista szimia bajou toca hoy",
+          "coordenadas": "( -27.456372205328698, -59.00633614431306)",
+          "direccion": "Resistencia, Chaco Argentina"
+        }
+      },{
+        "nombre": "evento 4",
+        "descripcion": {
+          "id": "4",
+          "artista": "luis alberto spinneta",
+          "genero": "pop",
+          "id_ubicacion": "40",
+          "hora_inicio": "9:00",
+          "hora_fin": "12:00",
+          "descripcion": "el guitarrista argentino toca  muchacha",
+          "coordenadas": "(-31.398528453971508, -64.2245274015175)",
+          "direccion": "Cordoba capital"
+        }
+      },{
+        "nombre": "evento 5",
+        "descripcion": {
+          "id": "5",
+          "artista": "juan falu",
+          "genero": "folclore",
+          "id_ubicacion": "50",
+          "hora_inicio": "18:00",
+          "hora_fin": "20:00",
+          "descripcion": "el guitarrista y compositor argentino toca",
+          "coordenadas": "(-24.221203001976008, -66.32122909582775)",
+          "direccion": "San Antonio de los cobre,Salta"
+  
+        }
+      }
+    ]
+  }
